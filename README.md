@@ -20,6 +20,21 @@ I have hands-on knowledge of data analysis, visualization, and database manageme
 - **SQL** – Data Extraction, Queries, Joins & Database Management
 - **Python** – Data Analysis & Basic Data Manipulation
 
+  ### 💼 Professional Experience
+
+Before transitioning into Data Analytics, I built a strong professional foundation in **Customer Service and International Client Communication**, working with reputed organizations across different industries.
+
+- **Prasthan Travels & Events** – Started my professional journey as a Customer Service Executive, developing strong communication and customer-handling skills in the travel industry.
+- **Majorel – Booking.com Process** – Gained international customer service experience, assisting global customers and strengthening my professional communication and problem-solving abilities.
+- **Teleperformance – Adobe US Process** – Worked with US-based customers, further enhancing my English communication, active listening, and ability to interact confidently in an international work environment.
+
+**Key Strengths:**
+- Excellent verbal and written communication.
+- Confident interaction with international clients.
+- Active listening and professional customer engagement.
+- Ability to communicate effectively in diverse work environments.
+- Strong interpersonal and relationship-building skills.
+
 ### 🎯 What I'm Currently Focusing On
 
 - Building real-world Data Analytics projects.
