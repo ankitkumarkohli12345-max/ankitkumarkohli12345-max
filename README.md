@@ -1,7 +1,15 @@
-# Hi, I'm Ankit Kohli! 👋
-
-### 📊 Data Analyst | Turning Data into Actionable Insights
-
+<h1 align="center">Hi 👋, I'm ANKIT_KOHLI </h1>
+<h3 align="center">🚀 Data Analyst | Turning Data into Actionable Insights | POWER_BI & TABLEAU DEVELOPER | MySQL / Python Enthusiast</h3>
+ 
+<p align="center">
+<a href="[Linkdin Profile link](https://www.linkedin.com/in/ankit-kohli-573326405/)">
+<img src="https://img.shields.io/badge/LinkedIn-Ankit_kohli-blue?style=for-the-badge&logo=linkedin">
+</a>
+<img src="https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white%22>
+</a>
+<img src="https://komarev.com/ghpvc/?username=ankitkumarkohli12345-max&style=for-the-badge" />
+</p>
+ 
 I'm a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights and helping businesses make data-driven decisions.
 
 I have hands-on knowledge of data analysis, visualization, and database management, with a focus on building interactive dashboards and analyzing real-world datasets.
