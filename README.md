@@ -5,8 +5,6 @@
 <a href="[Linkdin Profile link](https://www.linkedin.com/in/ankit-kohli-573326405/)">
 <img src="https://img.shields.io/badge/LinkedIn-Ankit_kohli-blue?style=for-the-badge&logo=linkedin">
 </a>
-<img src="https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white%22>
-</a>
 <img src="https://komarev.com/ghpvc/?username=ankitkumarkohli12345-max&style=for-the-badge" />
 </p>
  
