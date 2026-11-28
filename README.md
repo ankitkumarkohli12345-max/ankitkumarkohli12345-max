@@ -7,8 +7,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=ankitkumarkohli12345-max&style=for-the-badge" />
 </p>
- 
-I'm a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights and helping businesses make data-driven decisions.
+Data Analyst who transforms raw data into clear insights and interactive dashboards that drive business decisions. 
 
 I have hands-on knowledge of data analysis, visualization, and database management, with a focus on building interactive dashboards and analyzing real-world datasets.
 
@@ -22,7 +21,7 @@ I have hands-on knowledge of data analysis, visualization, and database manageme
 
   ### 💼 Professional Experience
 
-Before transitioning into Data Analytics, I built a strong professional foundation in **Customer Service and International Client Communication**, working with reputed organizations across different industries.
+- Before transitioning into Data Analytics, I built a strong professional foundation in **Customer Service and International Client Communication**, working with reputed organizations across different industries.
 
 - **Prasthan Travels & Events** – Started my professional journey as a Customer Service Executive, developing strong communication and customer-handling skills in the travel industry.
 - **Majorel – Booking.com Process** – Gained international customer service experience, assisting global customers and strengthening my professional communication and problem-solving abilities.
